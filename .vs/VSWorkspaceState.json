@@ -2,8 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\features\\posts"
+    "\\src\\api",
+    "\\src\\app",
+    "\\src\\features",
+    "\\src\\features\\notifications",
+    "\\src\\features\\posts",
+    "\\src\\features\\users"
   ],
-  "SelectedNode": "\\src\\App.js",
+  "SelectedNode": "\\src\\app\\Navbar.js",
   "PreviewInSolutionExplorer": false
 }
